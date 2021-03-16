@@ -2,7 +2,7 @@
 - 👀 I’m interested Front-end development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for an internship and graduate from my university
-- 📫 How to reach me ...
+- 📫 Contact me on facebook: https://www.facebook.com/twoStr0ke/ or gmail: leekhoi5319990@gmail.com
 
 <!---
 HelpMe-Pls/HelpMe-Pls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
