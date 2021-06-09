@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lê Tấn Khôi
 - 👀 I’m interested Front-end development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking for an internship and graduate from my university
+- 💞️ I’m looking for a job as a fresher
 - 📫 Contact me on facebook: https://www.facebook.com/twoStr0ke/ or gmail: leekhoi5319990@gmail.com
 
 <!---
