@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for a job as a fresher
 - 📫 Contact me on facebook: https://www.facebook.com/twoStr0ke/ or gmail: khoile5399@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelpMe-Pls)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelpMe-Pls)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
