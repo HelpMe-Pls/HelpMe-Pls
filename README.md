@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a job as a fresher
 - 📫 Contact me on facebook: https://www.facebook.com/twoStr0ke or gmail: khoile5399@gmail.com
 
-
+ <img src="https://komarev.com/ghpvc/?username=helpme-pls&label=Profile%20views&color=0e75b6&style=flat" alt="helpme-pls" />
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
