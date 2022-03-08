@@ -6,7 +6,9 @@
 
 
 
-## 🔥 Streak Stats
+## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
-
+<br>
+<br>
+<a href="https://github.com/HelpMe-Pls"><img alt="KhoiLe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HelpMe-Pls&custom_title=KhoiLe's%20Contribution%20Graph&theme=react-dark" /></a>
 
