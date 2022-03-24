@@ -8,5 +8,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
 <br>
 <br>
-[![Khoi Le's github activity graph](https://activity-graph.herokuapp.com/graph?username=HelpMe-Pls)](https://github.com/HelpMe-Pls/github-readme-activity-graph)
+[![Khoi Le's github activity graph](https://activity-graph.herokuapp.com/graph?username=helpme-pls)](https://github.com/HelpMe-Pls/github-readme-activity-graph)
 
