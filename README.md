@@ -7,5 +7,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
 <br>
 <br>
+![Snake animation](https://github.com/helpme-pls/helpme-pls/blob/output/github-contribution-grid-snake.svg)
 
 
