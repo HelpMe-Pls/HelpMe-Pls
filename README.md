@@ -6,7 +6,7 @@
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
 <br>
-![Snake animation](https://github.com/helpme-pls/helpme-pls/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 
