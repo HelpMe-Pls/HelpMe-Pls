@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Lê Tấn Khôi
-- 👀 I’m interested in Front-end Web development
-- 🌱 I’m currently learning ReactJS
-- 📫 Contact me on [facebook](https://www.facebook.com/messages/t/100005341874318) or gmail: khoile5399@gmail.com
+## About Me
+- What could I do, that I would do, to make Life a little better? I’ve been asking myself since I started to take my career seriously. The answer to that question announces itself as I found my interest in making things look good.
+- I’ve learned that even though I started off relatively untrained, I can do things properly throughout the process of trying to be a responsible person. I noticed that meaningful achievements always require effort along with consistency while taking full advantage of opportunities.
+- Utilizing cutting-edge technologies in frontend development is something I am incredibly passionate about doing in order to make ideas and thoughts come to life.
+- Now looking for an entry level job in frontend development.
+- Contact me on [facebook](https://www.facebook.com/messages/t/100005341874318) or gmail: khoile5399@gmail.com
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
