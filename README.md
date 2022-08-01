@@ -3,7 +3,7 @@
 - I’ve learned that even though I started off relatively untrained, I can do things properly throughout the process of trying to be a responsible person. I noticed that meaningful achievements always require effort along with consistency while taking full advantage of opportunities.
 - Utilizing cutting-edge technologies in frontend development is something I am incredibly passionate about doing in order to make ideas and thoughts come to life.
 - Now looking for an entry level job in frontend development.
-- Contact me on [facebook](https://www.facebook.com/messages/t/100005341874318) or gmail: khoile5399@gmail.com
+- Contact me on [Facebook](https://www.facebook.com/messages/t/100005341874318) or [LinkedIn](https://www.linkedin.com/in/khoile99).
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
