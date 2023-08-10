@@ -5,9 +5,3 @@
 - Now looking for a 1YOE++ position in frontend development.
 - Contact me on [Facebook](https://www.facebook.com/messages/t/100005341874318) or [LinkedIn](https://www.linkedin.com/in/khoile99).
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HelpMe-Pls&theme=algolia" alt="KhoiLe" /></p>
-<div> 
-  
-  ![Snake animation](https://github.com/HelpMe-Pls/HelpMe-Pls/blob/output/github-contribution-grid-snake.svg)
-</div>
